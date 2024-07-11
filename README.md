@@ -29,7 +29,7 @@ This project is designed to import Spotify playlists into a MySQL database using
 
 **For detailed instructions on each part, refer to the README files in the respective subfolders.**
 
-### Tableau Graphs With My Own Data ([Check main_project for .csv files](./main_project))
+### Tableau Graphs With My Own Data (Check main_project for [.csv files](./main_project/examples))
 
 <div align="center">
   <img src="./tableau1.png" alt="Graph 1" width="600">
