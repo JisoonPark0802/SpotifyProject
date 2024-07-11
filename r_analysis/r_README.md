@@ -41,7 +41,7 @@ This part of the project contains R scripts for analyzing the Spotify playlist d
     source("plots.r")
     ```
 ## Shiny App Demo
-You can watch a demonstration of the Shiny app [here](./shiny_app_demo.mp4).
+You can watch a demonstration of the Shiny app in action by clicking [here](https://youtu.be/T_MXUq9ijfs).
 
 ## R Graphs With My Own Data (Check main_project for [.csv files](../main_project/examples))
 
