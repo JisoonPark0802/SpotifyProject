@@ -46,9 +46,9 @@ This part of the project is responsible for importing Spotify playlists into a M
    - Replace `<rating>` with your own ratings and `<spotify_song_id>` with the actual Spotify song ID.
 
 ### Here Are Some Example Outputs From My Top Favourite Albums!
-- [Songs.csv](./Songs.csv): Example of song data exported to CSV.
-- [Albums.csv](./Albums.csv): Example of album data exported to CSV.
-- [Artists.csv](./Artists.csv): Example of artist data exported to CSV.
+- [Songs.csv](./songs.csv): Example of song data exported to CSV.
+- [Albums.csv](./albums.csv): Example of album data exported to CSV.
+- [Artists.csv](./artists.csv): Example of artist data exported to CSV.
 
 ### Acknowledgements
 - This project uses the [Spotipy library](https://spotipy.readthedocs.io/en/2.19.0/) for interacting with the Spotify API.
