@@ -35,28 +35,25 @@ This part of the project contains R scripts for analyzing the Spotify playlist d
    - Update the database connection details with your MySQL database credentials.
 
 2. **Generate Plots:**
+   Modify plots.r with personal code to generate plots that fit your needs.
+    
     ```r
     source("plots.r")
     ```
 
-   The static plots will be generated and saved in the `example_plots/` folder.
 
-## Example Plots
-Below are examples of the static plots you can create using the `plots.r` script:
+### R Graphs With My Own Data (Check main_project for [.csv files](./main_project/examples))
 
 <div align="center">
   <img src="./examples/plot1.png" alt="Plot 1" width="600">
-  <p>Figure 1: Description of Plot 1.</p>
+  <p>Graph of Song Ratings vs Popularity</p>
 
   <img src="./examples/plot2.png" alt="Plot 2" width="600">
-  <p>Figure 2: Description of Plot 2.</p>
+  <p>Distributions of Ratings for Each of My Favourite Albums</p>
 
   <img src="./examples/plot3.png" alt="Plot 3" width="600">
-  <p>Figure 3: Description of Plot 3.</p>
+  <p>Pair Plot for Song Features</p>
 </div>
-
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 - This project uses the [Shiny library](https://shiny.rstudio.com/) for building the interactive web application.
